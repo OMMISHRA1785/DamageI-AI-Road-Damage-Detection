@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Frontend
+node_modules/
+frontend/dist/
+
+# Large model files
+backend/best_old.pt
+backend/yolo11n.pt
+backend/test_model/
+
+# IDE
+.vscode/
